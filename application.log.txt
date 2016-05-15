@@ -1,0 +1,209 @@
+2016-05-12 21:36:21 INFO  UrlFetcher:50 - send request to url:+  http://www.globes.co.il/
+2016-05-12 21:36:22 DEBUG BasicClientConnectionManager:160 - Get connection for route {}->http://www.globes.co.il:80
+2016-05-12 21:36:22 DEBUG DefaultClientConnectionOperator:174 - Connecting to www.globes.co.il:80
+2016-05-12 21:36:22 DEBUG RequestAddCookies:122 - CookieSpec selected: default
+2016-05-12 21:36:22 DEBUG RequestAuthCache:76 - Auth cache not set in the context
+2016-05-12 21:36:22 DEBUG RequestTargetAuthentication:78 - Target auth state: UNCHALLENGED
+2016-05-12 21:36:22 DEBUG RequestProxyAuthentication:87 - Proxy auth state: UNCHALLENGED
+2016-05-12 21:36:22 DEBUG DefaultHttpClient:683 - Attempt 1 to execute request
+2016-05-12 21:36:22 DEBUG DefaultClientConnection:268 - Sending request: GET / HTTP/1.1
+2016-05-12 21:36:22 DEBUG wire:72 -  >> "GET / HTTP/1.1[\r][\n]"
+2016-05-12 21:36:22 DEBUG wire:72 -  >> "Host: www.globes.co.il[\r][\n]"
+2016-05-12 21:36:22 DEBUG wire:72 -  >> "Connection: Keep-Alive[\r][\n]"
+2016-05-12 21:36:22 DEBUG wire:72 -  >> "[\r][\n]"
+2016-05-12 21:36:22 DEBUG headers:272 - >> GET / HTTP/1.1
+2016-05-12 21:36:22 DEBUG headers:275 - >> Host: www.globes.co.il
+2016-05-12 21:36:22 DEBUG headers:275 - >> Connection: Keep-Alive
+2016-05-12 21:36:22 DEBUG wire:72 -  << "HTTP/1.1 200 OK[\r][\n]"
+2016-05-12 21:36:22 DEBUG wire:72 -  << "Cache-Control: private[\r][\n]"
+2016-05-12 21:36:22 DEBUG wire:72 -  << "Content-Length: 245037[\r][\n]"
+2016-05-12 21:36:22 DEBUG wire:72 -  << "Content-Type: text/html; charset=utf-8[\r][\n]"
+2016-05-12 21:36:22 DEBUG wire:72 -  << "Server: Microsoft-IIS/8.5[\r][\n]"
+2016-05-12 21:36:22 DEBUG wire:72 -  << "Set-Cookie: ASPSESSIONIDSCRDSDSD=LGNFCIDCIIFNIFLHBOOBEIOM; path=/[\r][\n]"
+2016-05-12 21:36:22 DEBUG wire:72 -  << "X-Powered-By: ASP.NET[\r][\n]"
+2016-05-12 21:36:22 DEBUG wire:72 -  << "set-cookie: adinfo=63;path=/[\r][\n]"
+2016-05-12 21:36:22 DEBUG wire:72 -  << "site: 63[\r][\n]"
+2016-05-12 21:36:22 DEBUG wire:72 -  << "Date: Thu, 12 May 2016 18:36:21 GMT[\r][\n]"
+2016-05-12 21:36:22 DEBUG wire:72 -  << "Connection: Keep-Alive[\r][\n]"
+2016-05-12 21:36:22 DEBUG wire:72 -  << "[\r][\n]"
+2016-05-12 21:36:22 DEBUG DefaultClientConnection:253 - Receiving response: HTTP/1.1 200 OK
+2016-05-12 21:36:22 DEBUG headers:256 - << HTTP/1.1 200 OK
+2016-05-12 21:36:22 DEBUG headers:259 - << Cache-Control: private
+2016-05-12 21:36:22 DEBUG headers:259 - << Content-Length: 245037
+2016-05-12 21:36:22 DEBUG headers:259 - << Content-Type: text/html; charset=utf-8
+2016-05-12 21:36:22 DEBUG headers:259 - << Server: Microsoft-IIS/8.5
+2016-05-12 21:36:22 DEBUG headers:259 - << Set-Cookie: ASPSESSIONIDSCRDSDSD=LGNFCIDCIIFNIFLHBOOBEIOM; path=/
+2016-05-12 21:36:22 DEBUG headers:259 - << X-Powered-By: ASP.NET
+2016-05-12 21:36:22 DEBUG headers:259 - << set-cookie: adinfo=63;path=/
+2016-05-12 21:36:22 DEBUG headers:259 - << site: 63
+2016-05-12 21:36:22 DEBUG headers:259 - << Date: Thu, 12 May 2016 18:36:21 GMT
+2016-05-12 21:36:22 DEBUG headers:259 - << Connection: Keep-Alive
+2016-05-12 21:36:22 DEBUG ResponseProcessCookies:118 - Cookie accepted [ASPSESSIONIDSCRDSDSD="LGNFCIDCIIFNIFLHBOOBEIOM", version:0, domain:www.globes.co.il, path:/, expiry:null]
+2016-05-12 21:36:22 DEBUG ResponseProcessCookies:118 - Cookie accepted [adinfo="63", version:0, domain:www.globes.co.il, path:/, expiry:null]
+2016-05-12 21:36:22 DEBUG DefaultHttpClient:510 - Connection can be kept alive indefinitely
+2016-05-12 21:36:22 INFO  UrlFetcher:65 - recieved response to url:+  http://www.globes.co.il/
+2016-05-12 21:37:40 INFO  UrlFetcher:50 - send request to url:+  http://www.globes.co.il/
+2016-05-12 21:37:41 DEBUG BasicClientConnectionManager:160 - Get connection for route {}->http://www.globes.co.il:80
+2016-05-12 21:37:41 DEBUG DefaultClientConnectionOperator:174 - Connecting to www.globes.co.il:80
+2016-05-12 21:37:47 INFO  UrlFetcher:50 - send request to url:+  http://www.globes.co.il/
+2016-05-12 21:37:48 DEBUG BasicClientConnectionManager:160 - Get connection for route {}->http://www.globes.co.il:80
+2016-05-12 21:37:48 DEBUG DefaultClientConnectionOperator:174 - Connecting to www.globes.co.il:80
+2016-05-12 21:37:48 DEBUG RequestAddCookies:122 - CookieSpec selected: default
+2016-05-12 21:37:48 DEBUG RequestAuthCache:76 - Auth cache not set in the context
+2016-05-12 21:37:48 DEBUG RequestTargetAuthentication:78 - Target auth state: UNCHALLENGED
+2016-05-12 21:37:48 DEBUG RequestProxyAuthentication:87 - Proxy auth state: UNCHALLENGED
+2016-05-12 21:37:48 DEBUG DefaultHttpClient:683 - Attempt 1 to execute request
+2016-05-12 21:37:48 DEBUG DefaultClientConnection:268 - Sending request: GET / HTTP/1.1
+2016-05-12 21:37:48 DEBUG wire:72 -  >> "GET / HTTP/1.1[\r][\n]"
+2016-05-12 21:37:48 DEBUG wire:72 -  >> "Host: www.globes.co.il[\r][\n]"
+2016-05-12 21:37:48 DEBUG wire:72 -  >> "Connection: Keep-Alive[\r][\n]"
+2016-05-12 21:37:48 DEBUG wire:72 -  >> "[\r][\n]"
+2016-05-12 21:37:48 DEBUG headers:272 - >> GET / HTTP/1.1
+2016-05-12 21:37:48 DEBUG headers:275 - >> Host: www.globes.co.il
+2016-05-12 21:37:48 DEBUG headers:275 - >> Connection: Keep-Alive
+2016-05-12 21:37:48 DEBUG wire:72 -  << "HTTP/1.1 200 OK[\r][\n]"
+2016-05-12 21:37:48 DEBUG wire:72 -  << "Cache-Control: private[\r][\n]"
+2016-05-12 21:37:48 DEBUG wire:72 -  << "Content-Length: 245037[\r][\n]"
+2016-05-12 21:37:48 DEBUG wire:72 -  << "Content-Type: text/html; charset=utf-8[\r][\n]"
+2016-05-12 21:37:48 DEBUG wire:72 -  << "Server: Microsoft-IIS/8.5[\r][\n]"
+2016-05-12 21:37:48 DEBUG wire:72 -  << "site: 61[\r][\n]"
+2016-05-12 21:37:48 DEBUG wire:72 -  << "X-Powered-By: ASP.NET[\r][\n]"
+2016-05-12 21:37:48 DEBUG wire:72 -  << "set-cookie: adinfo=61;path=/[\r][\n]"
+2016-05-12 21:37:48 DEBUG wire:72 -  << "Date: Thu, 12 May 2016 18:37:45 GMT[\r][\n]"
+2016-05-12 21:37:48 DEBUG wire:72 -  << "Connection: Keep-Alive[\r][\n]"
+2016-05-12 21:37:48 DEBUG wire:72 -  << "[\r][\n]"
+2016-05-12 21:37:48 DEBUG DefaultClientConnection:253 - Receiving response: HTTP/1.1 200 OK
+2016-05-12 21:37:48 DEBUG headers:256 - << HTTP/1.1 200 OK
+2016-05-12 21:37:48 DEBUG headers:259 - << Cache-Control: private
+2016-05-12 21:37:48 DEBUG headers:259 - << Content-Length: 245037
+2016-05-12 21:37:48 DEBUG headers:259 - << Content-Type: text/html; charset=utf-8
+2016-05-12 21:37:48 DEBUG headers:259 - << Server: Microsoft-IIS/8.5
+2016-05-12 21:37:48 DEBUG headers:259 - << site: 61
+2016-05-12 21:37:48 DEBUG headers:259 - << X-Powered-By: ASP.NET
+2016-05-12 21:37:48 DEBUG headers:259 - << set-cookie: adinfo=61;path=/
+2016-05-12 21:37:48 DEBUG headers:259 - << Date: Thu, 12 May 2016 18:37:45 GMT
+2016-05-12 21:37:48 DEBUG headers:259 - << Connection: Keep-Alive
+2016-05-12 21:37:48 DEBUG ResponseProcessCookies:118 - Cookie accepted [adinfo="61", version:0, domain:www.globes.co.il, path:/, expiry:null]
+2016-05-12 21:37:48 DEBUG DefaultHttpClient:510 - Connection can be kept alive indefinitely
+2016-05-12 21:37:48 INFO  UrlFetcher:65 - recieved response to url:+  http://www.globes.co.il/
+2016-05-12 21:38:15 INFO  UrlFetcher:50 - send request to url:+  http://www.globes.co.il/
+2016-05-12 21:38:15 INFO  UrlFetcher:50 - send request to url:+  http://www.ynet.co.il/
+2016-05-12 21:38:16 DEBUG BasicClientConnectionManager:160 - Get connection for route {}->http://www.globes.co.il:80
+2016-05-12 21:38:16 DEBUG BasicClientConnectionManager:160 - Get connection for route {}->http://www.ynet.co.il:80
+2016-05-12 21:38:16 DEBUG DefaultClientConnectionOperator:174 - Connecting to www.globes.co.il:80
+2016-05-12 21:38:16 DEBUG RequestAddCookies:122 - CookieSpec selected: default
+2016-05-12 21:38:16 DEBUG RequestAuthCache:76 - Auth cache not set in the context
+2016-05-12 21:38:16 DEBUG RequestTargetAuthentication:78 - Target auth state: UNCHALLENGED
+2016-05-12 21:38:16 DEBUG RequestProxyAuthentication:87 - Proxy auth state: UNCHALLENGED
+2016-05-12 21:38:16 DEBUG DefaultHttpClient:683 - Attempt 1 to execute request
+2016-05-12 21:38:16 DEBUG DefaultClientConnection:268 - Sending request: GET / HTTP/1.1
+2016-05-12 21:38:16 DEBUG wire:72 -  >> "GET / HTTP/1.1[\r][\n]"
+2016-05-12 21:38:16 DEBUG wire:72 -  >> "Host: www.globes.co.il[\r][\n]"
+2016-05-12 21:38:16 DEBUG wire:72 -  >> "Connection: Keep-Alive[\r][\n]"
+2016-05-12 21:38:16 DEBUG wire:72 -  >> "[\r][\n]"
+2016-05-12 21:38:16 DEBUG headers:272 - >> GET / HTTP/1.1
+2016-05-12 21:38:16 DEBUG headers:275 - >> Host: www.globes.co.il
+2016-05-12 21:38:16 DEBUG headers:275 - >> Connection: Keep-Alive
+2016-05-12 21:38:16 DEBUG wire:72 -  << "HTTP/1.1 200 OK[\r][\n]"
+2016-05-12 21:38:16 DEBUG wire:72 -  << "Cache-Control: private[\r][\n]"
+2016-05-12 21:38:16 DEBUG wire:72 -  << "Content-Length: 245037[\r][\n]"
+2016-05-12 21:38:16 DEBUG wire:72 -  << "Content-Type: text/html; charset=utf-8[\r][\n]"
+2016-05-12 21:38:16 DEBUG wire:72 -  << "Server: Microsoft-IIS/8.5[\r][\n]"
+2016-05-12 21:38:16 DEBUG wire:72 -  << "Set-Cookie: ASPSESSIONIDQSQTCARR=PIGNCPDCOKCMJHLKAIPFFEDD; path=/[\r][\n]"
+2016-05-12 21:38:16 DEBUG wire:72 -  << "X-Powered-By: ASP.NET[\r][\n]"
+2016-05-12 21:38:16 DEBUG wire:72 -  << "set-cookie: adinfo=62;path=/[\r][\n]"
+2016-05-12 21:38:16 DEBUG wire:72 -  << "site: 62[\r][\n]"
+2016-05-12 21:38:16 DEBUG wire:72 -  << "Date: Thu, 12 May 2016 18:38:08 GMT[\r][\n]"
+2016-05-12 21:38:16 DEBUG wire:72 -  << "Connection: Keep-Alive[\r][\n]"
+2016-05-12 21:38:16 DEBUG wire:72 -  << "[\r][\n]"
+2016-05-12 21:38:16 DEBUG DefaultClientConnection:253 - Receiving response: HTTP/1.1 200 OK
+2016-05-12 21:38:16 DEBUG headers:256 - << HTTP/1.1 200 OK
+2016-05-12 21:38:16 DEBUG headers:259 - << Cache-Control: private
+2016-05-12 21:38:16 DEBUG headers:259 - << Content-Length: 245037
+2016-05-12 21:38:16 DEBUG headers:259 - << Content-Type: text/html; charset=utf-8
+2016-05-12 21:38:16 DEBUG headers:259 - << Server: Microsoft-IIS/8.5
+2016-05-12 21:38:16 DEBUG headers:259 - << Set-Cookie: ASPSESSIONIDQSQTCARR=PIGNCPDCOKCMJHLKAIPFFEDD; path=/
+2016-05-12 21:38:16 DEBUG headers:259 - << X-Powered-By: ASP.NET
+2016-05-12 21:38:16 DEBUG headers:259 - << set-cookie: adinfo=62;path=/
+2016-05-12 21:38:16 DEBUG headers:259 - << site: 62
+2016-05-12 21:38:16 DEBUG headers:259 - << Date: Thu, 12 May 2016 18:38:08 GMT
+2016-05-12 21:38:16 DEBUG headers:259 - << Connection: Keep-Alive
+2016-05-12 21:38:16 DEBUG ResponseProcessCookies:118 - Cookie accepted [ASPSESSIONIDQSQTCARR="PIGNCPDCOKCMJHLKAIPFFEDD", version:0, domain:www.globes.co.il, path:/, expiry:null]
+2016-05-12 21:38:16 DEBUG ResponseProcessCookies:118 - Cookie accepted [adinfo="62", version:0, domain:www.globes.co.il, path:/, expiry:null]
+2016-05-12 21:38:16 DEBUG DefaultHttpClient:510 - Connection can be kept alive indefinitely
+2016-05-12 21:38:16 INFO  UrlFetcher:65 - recieved response to url:+  http://www.globes.co.il/
+2016-05-12 21:38:17 DEBUG DefaultClientConnectionOperator:174 - Connecting to www.ynet.co.il:80
+2016-05-12 21:38:17 DEBUG RequestAddCookies:122 - CookieSpec selected: default
+2016-05-12 21:38:17 DEBUG RequestAuthCache:76 - Auth cache not set in the context
+2016-05-12 21:38:17 DEBUG RequestTargetAuthentication:78 - Target auth state: UNCHALLENGED
+2016-05-12 21:38:17 DEBUG RequestProxyAuthentication:87 - Proxy auth state: UNCHALLENGED
+2016-05-12 21:38:17 DEBUG DefaultHttpClient:683 - Attempt 1 to execute request
+2016-05-12 21:38:17 DEBUG DefaultClientConnection:268 - Sending request: GET / HTTP/1.1
+2016-05-12 21:38:17 DEBUG wire:72 -  >> "GET / HTTP/1.1[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  >> "Host: www.ynet.co.il[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  >> "Connection: Keep-Alive[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  >> "[\r][\n]"
+2016-05-12 21:38:17 DEBUG headers:272 - >> GET / HTTP/1.1
+2016-05-12 21:38:17 DEBUG headers:275 - >> Host: www.ynet.co.il
+2016-05-12 21:38:17 DEBUG headers:275 - >> Connection: Keep-Alive
+2016-05-12 21:38:17 DEBUG wire:72 -  << "HTTP/1.1 301 Moved Permanently[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  << "Server: AkamaiGHost[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  << "Content-Length: 0[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  << "Location: /home/0,7340,L-8,00.html[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  << "Date: Thu, 12 May 2016 18:38:17 GMT[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  << "Connection: keep-alive[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  << "[\r][\n]"
+2016-05-12 21:38:17 DEBUG DefaultClientConnection:253 - Receiving response: HTTP/1.1 301 Moved Permanently
+2016-05-12 21:38:17 DEBUG headers:256 - << HTTP/1.1 301 Moved Permanently
+2016-05-12 21:38:17 DEBUG headers:259 - << Server: AkamaiGHost
+2016-05-12 21:38:17 DEBUG headers:259 - << Content-Length: 0
+2016-05-12 21:38:17 DEBUG headers:259 - << Location: /home/0,7340,L-8,00.html
+2016-05-12 21:38:17 DEBUG headers:259 - << Date: Thu, 12 May 2016 18:38:17 GMT
+2016-05-12 21:38:17 DEBUG headers:259 - << Connection: keep-alive
+2016-05-12 21:38:17 DEBUG DefaultHttpClient:510 - Connection can be kept alive indefinitely
+2016-05-12 21:38:17 DEBUG DefaultRedirectStrategy:142 - Redirect requested to location '/home/0,7340,L-8,00.html'
+2016-05-12 21:38:17 DEBUG DefaultHttpClient:1096 - Resetting target auth state
+2016-05-12 21:38:17 DEBUG DefaultHttpClient:1112 - Redirecting to 'http://www.ynet.co.il/home/0,7340,L-8,00.html' via {}->http://www.ynet.co.il:80
+2016-05-12 21:38:17 DEBUG RequestAddCookies:122 - CookieSpec selected: default
+2016-05-12 21:38:17 DEBUG RequestAuthCache:76 - Auth cache not set in the context
+2016-05-12 21:38:17 DEBUG RequestTargetAuthentication:78 - Target auth state: UNCHALLENGED
+2016-05-12 21:38:17 DEBUG RequestProxyAuthentication:87 - Proxy auth state: UNCHALLENGED
+2016-05-12 21:38:17 DEBUG DefaultHttpClient:683 - Attempt 2 to execute request
+2016-05-12 21:38:17 DEBUG DefaultClientConnection:268 - Sending request: GET /home/0,7340,L-8,00.html HTTP/1.1
+2016-05-12 21:38:17 DEBUG wire:72 -  >> "GET /home/0,7340,L-8,00.html HTTP/1.1[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  >> "Host: www.ynet.co.il[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  >> "Connection: Keep-Alive[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  >> "[\r][\n]"
+2016-05-12 21:38:17 DEBUG headers:272 - >> GET /home/0,7340,L-8,00.html HTTP/1.1
+2016-05-12 21:38:17 DEBUG headers:275 - >> Host: www.ynet.co.il
+2016-05-12 21:38:17 DEBUG headers:275 - >> Connection: Keep-Alive
+2016-05-12 21:38:17 DEBUG wire:72 -  << "HTTP/1.1 200 OK[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  << "vg_id: 1[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  << "X-me: 10[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  << "Content-Type: text/html; charset=UTF-8[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  << "Last-Modified: Thu, 12 May 2016 18:32:59 GMT[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  << "VX-Cache: HIT[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  << "WAI: 01[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  << "V-TTL: 37[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  << "backend-cache-control: s-maxage=900[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  << "Date: Thu, 12 May 2016 18:38:17 GMT[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  << "Transfer-Encoding:  chunked[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  << "Connection: keep-alive[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  << "Connection: Transfer-Encoding[\r][\n]"
+2016-05-12 21:38:17 DEBUG wire:72 -  << "[\r][\n]"
+2016-05-12 21:38:17 DEBUG DefaultClientConnection:253 - Receiving response: HTTP/1.1 200 OK
+2016-05-12 21:38:17 DEBUG headers:256 - << HTTP/1.1 200 OK
+2016-05-12 21:38:17 DEBUG headers:259 - << vg_id: 1
+2016-05-12 21:38:17 DEBUG headers:259 - << X-me: 10
+2016-05-12 21:38:17 DEBUG headers:259 - << Content-Type: text/html; charset=UTF-8
+2016-05-12 21:38:17 DEBUG headers:259 - << Last-Modified: Thu, 12 May 2016 18:32:59 GMT
+2016-05-12 21:38:17 DEBUG headers:259 - << VX-Cache: HIT
+2016-05-12 21:38:17 DEBUG headers:259 - << WAI: 01
+2016-05-12 21:38:17 DEBUG headers:259 - << V-TTL: 37
+2016-05-12 21:38:17 DEBUG headers:259 - << backend-cache-control: s-maxage=900
+2016-05-12 21:38:17 DEBUG headers:259 - << Date: Thu, 12 May 2016 18:38:17 GMT
+2016-05-12 21:38:17 DEBUG headers:259 - << Transfer-Encoding:  chunked
+2016-05-12 21:38:17 DEBUG headers:259 - << Connection: keep-alive
+2016-05-12 21:38:17 DEBUG headers:259 - << Connection: Transfer-Encoding
+2016-05-12 21:38:17 DEBUG DefaultHttpClient:510 - Connection can be kept alive indefinitely
+2016-05-12 21:38:17 INFO  UrlFetcher:65 - recieved response to url:+  http://www.ynet.co.il/
